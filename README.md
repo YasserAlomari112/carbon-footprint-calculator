@@ -1,6 +1,5 @@
 # Carbon Footprint Calculator
 
-A responsive school web-development project built with HTML, CSS, and Bootstrap 5.
 
 ## Files
 - `index.html` — page structure and content
